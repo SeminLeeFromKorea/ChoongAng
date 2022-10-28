@@ -1,7 +1,7 @@
 package naver.leesemeen.thread;
 
 public class DaemonThread {
-
+	// ddd
 	public static void main(String[] args) {
 		// 1부터 10까지를 1초씩 딜레이하면서 출력해주는 스레드
 		Thread th = new Thread(() -> {
